@@ -11,5 +11,4 @@ Execute o projeto e acesse o endereço http://localhost:8080/
 - REST
 - Lombok
 - H2 Database
-- EasyAutocomplete
 - Bootstrap
